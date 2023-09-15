@@ -1,5 +1,7 @@
 # Software QA Engineer
 
+#### Technical Skills: HTML, CSS, JavaScript, SQL
+
 ### Work Experience
 Software QA @ HCL Technologies at Meta
 - big impact project 1
