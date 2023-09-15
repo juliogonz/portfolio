@@ -2,6 +2,7 @@
 
 #### Technical Skills: HTML, CSS, JavaScript, SQL
 
+
 ### Work Experience
 Software QA @ HCL Technologies at Meta
 - big impact project 1
@@ -13,3 +14,6 @@ Software QA @ HCL Technologies at Meta
 
 
 ### Projects
+- project 1
+- project 2
+- project 3
